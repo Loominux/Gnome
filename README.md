@@ -18,4 +18,6 @@ curl https://raw.githubusercontent.com/Loominux/Gnome-40-setup/main/gnome-setup.
 
 [Firefox Theme](https://github.com/catppuccin/firefox)
 
+[Gnome Terminal Theme](https://github.com/catppuccin/gnome-terminal)
+
 
