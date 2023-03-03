@@ -11,6 +11,9 @@ mkdir ~/.icons
 wget https://github.com/catppuccin/gtk/releases/download/v0.4.0/Catppuccin-Macchiato-Standard-Mauve-Dark.zip -P ~/Downloads/
 unzip ~/Downloads/Catppuccin-Macchiato-Standard-Mauve-Dark.zip -d .themes/
 
+# Gnome Therminal Theme
+curl -L https://raw.githubusercontent.com/catppuccin/gnome-terminal/v0.2.0/install.py | python3 -
+
 # Download and install Icons and Cursor
 git clone https://github.com/vinceliuice/Colloid-icon-theme ~/Downloads/Colloid-icon-theme
 sh ~/Downloads/Colloid-icon-theme/install.sh -s dracula -t purple
