@@ -1,8 +1,10 @@
+# Script
+
 ```bash
 curl https://raw.githubusercontent.com/Loominux/Gnome-40-setup/main/gnome-setup.sh | sh
 ```
 
-After the Script:
+# After the Script
 
 In Gnome Terminal, open `Edit -> Preferences` and pick `Catppuccin Macchiato`
 
@@ -19,7 +21,7 @@ gnome-extensions enable trayIconsReloaded@selfmade.pl
 gnome-extensions enable user-theme@gnome-shell-extensions.gcampax.github.com
 ```
 
--------
+# Sources for my Theme
 
 [Script for Gnome Extensions](https://github.com/brunelli/gnome-shell-extension-installer)
 
