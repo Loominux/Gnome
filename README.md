@@ -1,7 +1,7 @@
 # Script
 
 ```bash
-curl https://raw.githubusercontent.com/Loominux/Gnome-40-setup/main/gnome-setup.sh | sh
+curl https://raw.githubusercontent.com/Loominux/Gnome/main/gnome-setup.sh | sh
 ```
 
 # After the Script
