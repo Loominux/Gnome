@@ -42,5 +42,8 @@ gnome-extensions enable user-theme@gnome-shell-extensions.gcampax.github.com
 
 [Gnome Terminal Theme](https://github.com/catppuccin/gnome-terminal)
 
+[Bash Theme](https://github.com/b-ryan/powerline-shell)
+
+[Oh My Bash](https://ohmybash.nntoan.com)
 
 
