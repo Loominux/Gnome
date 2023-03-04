@@ -44,3 +44,7 @@ gsettings set org.gnome.desktop.interface icon-theme "Colloid-purple-dracula-dar
 gsettings set org.gnome.desktop.interface cursor-theme "Colloid-cursors"
 gsettings set org.gnome.desktop.wm.preferences button-layout 'close,minimize,maximize:appmenu'
 gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+
+# bash theme
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+
