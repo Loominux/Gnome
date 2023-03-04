@@ -47,4 +47,4 @@ gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
 # bash theme
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
-
+sed -i '/OSH_THEME=/c\OSH_THEME="powerline-multiline"' ~/.bashrc
