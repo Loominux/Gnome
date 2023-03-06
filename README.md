@@ -19,6 +19,9 @@ gnome-extensions enable gsconnect@andyholmes.github.io
 gnome-extensions enable no-overview@fthx
 gnome-extensions enable trayIconsReloaded@selfmade.pl
 gnome-extensions enable user-theme@gnome-shell-extensions.gcampax.github.com
+gnome-extensions enable tiling-assistant@leleat-on-github 
+gnome-extensions enable Hide_Activities@shay.shayel.org
+gnome-extensions enable RemoveAppMenu@Dragon8oy.com
 ```
 
 # Preview
