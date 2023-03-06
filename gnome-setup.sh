@@ -6,7 +6,7 @@ sudo flatpak override --filesystem=/home/$USER/.icons/:ro
 # installing gnome shell extensions
 wget https://github.com/brunelli/gnome-shell-extension-installer/raw/master/gnome-shell-extension-installer -P  ~/Downloads/
 chmod +x ~/Downloads/gnome-shell-extension-installer
-~/Downloads/gnome-shell-extension-installer 19 517 4099 1319 2890 
+~/Downloads/gnome-shell-extension-installer 19 517 4099 1319 2890 3733 744 3906 
 
 # create folders
 mkdir ~/.themes
@@ -44,6 +44,7 @@ gsettings set org.gnome.desktop.interface icon-theme "Colloid-purple-dracula-dar
 gsettings set org.gnome.desktop.interface cursor-theme "Colloid-cursors"
 gsettings set org.gnome.desktop.wm.preferences button-layout 'close,minimize,maximize:appmenu'
 gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+gsettings set org.gnome.desktop.interface enable-hot-corners false
 
 # bash theme
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
